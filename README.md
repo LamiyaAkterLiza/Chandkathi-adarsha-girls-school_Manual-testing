@@ -112,5 +112,3 @@ Defects are documented with:
 ## 🤝 Contribution
 This repository is intended for learning and demonstration.  
 Suggestions for improving test coverage or documentation quality are welcome.
-
----
