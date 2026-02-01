@@ -1,6 +1,6 @@
 # Chandkathi Adarsha Girls' Secondary School – Manual Testing 
 ## 📌 Project Overview
-This repository contains **manual software testing artifacts** for the [https://caghschool.edu.bd/]
+This repository contains **manual software testing artifacts** for the [https://caghschool.edu.bd/]. 
 The purpose of this project is to demonstrate structured **Quality Assurance (QA)** practices through well-documented testing deliverables.
 
 The repository focuses on validating **functional correctness**, **usability**, and **system reliability** using standard manual testing techniques.
