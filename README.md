@@ -1,9 +1,9 @@
 # Chandkathi Adarsha Girls' Secondary School – Manual Testing 
 ## 📌 Project Overview
-This repository contains **manual software testing documentation** prepared for the *Chandkathi Adarsha Girls' Secondary School* system.  
-The project demonstrates **ISTQB-aligned Quality Assurance practices**, focusing on systematic test design, execution, and defect reporting.
+This repository contains **manual software testing artifacts** for the [https://caghschool.edu.bd/]
+The purpose of this project is to demonstrate structured **Quality Assurance (QA)** practices through well-documented testing deliverables.
 
-The testing activities aim to evaluate the system against specified **functional requirements**, usability expectations, and reliability criteria.
+The repository focuses on validating **functional correctness**, **usability**, and **system reliability** using standard manual testing techniques.
 
 ---
 
